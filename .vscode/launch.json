@@ -2,6 +2,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Dtype",
+            "request": "launch",
+            "mainClass": "Dtype",
+            "projectName": "Programming-Practice_b3d6cc7e"
+        },
+        {
             "name": "Debug C++",
             "type": "cppdbg",
             "request": "launch",
