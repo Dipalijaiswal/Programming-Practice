@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Count",
+            "request": "launch",
+            "mainClass": "Count",
+            "projectName": "Programming-Practice_b3d6cc7e"
+        },
+        {
+            "type": "java",
             "name": "Dtype",
             "request": "launch",
             "mainClass": "Dtype",
